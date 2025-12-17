@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lidar_robotcar
 
 ## Introduction
@@ -151,3 +152,6 @@ This project is open source. Please refer to the license file for more details.
 Version 0.1
 
 For technical support and questions, please open an issue in the repository.
+=======
+# Autonomous-bot-using-Lidar
+>>>>>>> f8685d0e27330b890c491072f47afd1d1ba0dd24
