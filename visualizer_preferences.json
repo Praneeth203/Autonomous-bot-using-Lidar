@@ -1,0 +1,38 @@
+{
+  "visual": {
+    "scale_factor": 87.3741,
+    "direction_ratio_max_degree": 45.0,
+    "direction_ratio_max_angular": 1.0,
+    "normal_point_radius": 1,
+    "normal_point_center_radius": 1,
+    "decisive_point_radius": 3,
+    "decisive_point_center_radius": 2,
+    "co_centric_circle_step": 0.2
+  },
+  "data": {
+    "augmentation_unit": "mm",
+    "split_ratios": [
+      70,
+      20,
+      10
+    ]
+  },
+  "export": {
+    "file_prefix": "lidar_dataset",
+    "timestamp_format": "%Y%m%d_%H%M%S"
+  },
+  "ui": {
+    "window_width": 850,
+    "window_height": 750,
+    "canvas_size": 680
+  },
+  "logging": {
+    "log_level": "INFO",
+    "log_to_file": true,
+    "log_to_console": true
+  },
+  "session": {
+    "last_opened_file": "/home/andy/mysource/github/lidar_robotcar/data/run1/out1.txt",
+    "remember_last_file": true
+  }
+}
